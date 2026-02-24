@@ -1,2 +1,5 @@
-/luigi/
-/OFZ Auctions/
+/.idea/
+/data/output/
+/notebooks_wip/
+.ipynb_checkpoints/
+.env
